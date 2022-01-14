@@ -1,24 +1,6 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Steps to use this application
+1. Git clone or download zip
+2. run bundle update or bundle install and make change accordingly into base files.
+3. Postman request can be made to endpoints set in 'config/routes.rb' file.
+4. patch and log out request is not working.
+5. there is no relaton between movies and users. 
